@@ -5,7 +5,7 @@ const mtjwxsdk = require('./utils/mtj-wx-sdk.js');
 
 App({
   globalData: {
-    baseAPI: "https://www.alvisu.com:8001",
+    baseAPI: "https://gnehcgnaw.natappvip.cc",
     pageSize: 10
   },
   onLaunch: function() {
